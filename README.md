@@ -1,4 +1,4 @@
-##Web Scraping with Scrapy: Extracting Quotes
+<h1>Web Scraping with Scrapy: Extracting Quotes</h1>
 This repository contains an example project developed using the Scrapy framework, a powerful tool for web scraping in Python. The purpose of the project is to demonstrate how to create a spider to collect quotes, authors, and tags from the website Quotes to Scrape.
 
 About the Project
